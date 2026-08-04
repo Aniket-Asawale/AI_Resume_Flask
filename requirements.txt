@@ -2,7 +2,7 @@ Flask==2.2.5
 Flask-Login==0.6.2
 Flask-WTF==1.1.1
 Flask-SQLAlchemy==3.0.5
-Werkzeug==2.2.3
+Werkzeug==3.1.6
 wtforms==3.1.1
 wtforms[email]==3.1.1
 pdfminer.six==20231228
